@@ -1,4 +1,6 @@
-import './search-box.styles.css';
+import "./search-box.styles.css";
+
+console.log("HELLO");
 
 const SearchBox = ({ className, placeholder, onChangeHandler }) => (
   <input
